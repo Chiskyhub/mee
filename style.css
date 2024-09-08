@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(94, 94, 173, 0.544);
+}
+
+.header{
+
+}
+
+.nav{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 35rem;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 10rem;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
